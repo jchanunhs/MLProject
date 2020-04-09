@@ -1,7 +1,7 @@
 # MLProject
 Clustered Linear Regression in R
-Dataset is based on the Covid-19 pandemic.
-Purpose: Used cluster linear regression to improve accuracy of predicting the future infections and deaths from the coronavirus from 3/08/2020 - 3/15/2020 based on the dataset from 1/22/2020 - 3/7/2020.
+- Dataset is based on the Covid-19 pandemic and retrieved from: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+- Purpose: Used cluster linear regression to improve accuracy of predicting the future infections and deaths from the coronavirus from 3/08/2020 - 3/15/2020 based on the dataset from 1/22/2020 - 3/7/2020.
 
 Libraries used
 - Tidyverse - Sort data based on date / days
